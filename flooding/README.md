@@ -2,13 +2,6 @@
 
 This code uses RPi to simulate SYN, UDP, DNS, HTTPS and IP fragmented flooding attacks on IoT devices using tcpreplay. The RPi's IP address is 10.12.0.12. 
 
-The attacked devices' IP addresses are:
-
-- 10.12.0.14
-- 10.12.0.26
-- 10.12.0.27
-- 10.12.0.30
-
 ## Requirements
 
 - Any Linux distribution
