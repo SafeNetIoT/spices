@@ -32,4 +32,4 @@ More detailed descriptions and usage examples of the scripts are included in the
 
 Data are stored [here](https://liveuclac-my.sharepoint.com/:f:/g/personal/uceeam9_ucl_ac_uk/EgkweNwibRxMgEHcrPk4EDkBnKij8mijxEiiVDB-eNloSw?e=NpJYkz).
 
-Each folder contains attack result files for one type of attack, sorted by the devices.
+Each folder contains the packet capture and attack result files for one type of attack, sorted by the devices.
